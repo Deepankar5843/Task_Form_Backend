@@ -1,0 +1,14 @@
+# .gitignore
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore SQLite database file 
+tasks.db
+
+# Ignore environment file 
+.env
+
+
+
+
